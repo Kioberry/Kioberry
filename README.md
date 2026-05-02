@@ -2,14 +2,8 @@
   <img src="./banner.svg" width="100%" alt="Astrid Xie banner"/>
 </p>
 
-<h3>🫧 Hi, I'm Astrid.😊 </h3>
-<p align="center">
-  A second-year Computer Science Master studying at USC.<br/>
-  Building AI agents, backend system that improve the automatic workflow.<br/>
-  Currently pursue 2026 summer internship in Software Engineering and Machine Learning.
-</p>
 
-### 🫧 Hi, I'm Astrid 😊
+### 🫧👋🏻 Hi, I'm Astrid
 
 🎓 I'm currently a **Second-year M.S. in Computer Science** student at **USC Viterbi School of Engineering** 
 👩‍💻 Looking to **2026 Summer Internships** in **Software Engineering** and **Machine Learning**.
