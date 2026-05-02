@@ -2,12 +2,20 @@
   <img src="./banner.svg" width="100%" alt="Astrid Xie banner"/>
 </p>
 
+<h3>🫧 Hi, I'm Astrid.😊 </h3>
 <p align="center">
-  🫧 Hi, I'm Astrid.😊
   A second-year Computer Science Master studying at USC.<br/>
   Building AI agents, backend system that improve the automatic workflow.<br/>
   Currently pursue 2026 summer internship in Software Engineering and Machine Learning.
 </p>
+
+### 🫧 Hi, I'm Astrid 😊
+
+🎓 I'm currently a **Second-year M.S. in Computer Science** student at **USC Viterbi School of Engineering** 
+👩‍💻 Looking to **2026 Summer Internships** in **Software Engineering** and **Machine Learning**.
+
+I'm passionate about building AI agents and backend systems that improve automated workflows, bridging multi-agent coordination with scalable infrastructure.
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/USC%20Viterbi-MS%20CS-cc0000?style=flat-square&logo=academia&logoColor=white" />
@@ -82,10 +90,6 @@ Exploring RL integration into classical MAPF pipelines. Working toward gap analy
 ---
 
 ## 📬 Contact
-
-<p>
-  📍 Los Angeles, CA &nbsp;|&nbsp; 🎓 USC Viterbi · MS CS &nbsp;|&nbsp; 💼 Open to 2026 Summer Internships
-</p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kioberry.com-818cf8?style=flat-square&logo=googlechrome&logoColor=white)](https://kioberry.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wanrong-astrid-xie)
