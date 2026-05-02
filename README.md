@@ -18,9 +18,9 @@ I'm passionate about building AI agents and backend systems that improve automat
   <img src="https://img.shields.io/badge/Open%20to-2026%20Internships-f59e0b?style=flat-square&logoColor=white" />
 </p>
 
----
 
-## 🚀 Featured Projects
+
+## 📎 Featured Projects
 
 | Project | Description | Stack | Award |
 |---|---|---|---|
@@ -28,7 +28,7 @@ I'm passionate about building AI agents and backend systems that improve automat
 | [**PokerBench**]() | QLoRA fine-tuning study. Small models outperform GPT-4o zero-shot on poker strategy. | PyTorch · QLoRA · HuggingFace | 🔬 Research |
 | [**Alien Cat**](https://github.com/Kioberry/CSCI580_AlienCat_Project) | A 3D-rendered ocean shader scene in GLSL/Shadertoy | GLSL · Ray Marching · Shadertoy | 👾 Computer Graphics |
 
----
+
 
 ## 🔬 Current Research
 
@@ -42,7 +42,7 @@ Exploring RL integration into classical MAPF pipelines. Working toward gap analy
 ![RL+Planning](https://img.shields.io/badge/RL%20%2B%20Planning-555?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 
----
+
 
 ## 🛠 Skills
 
@@ -83,7 +83,7 @@ Exploring RL integration into classical MAPF pipelines. Working toward gap analy
 
 ---
 
-## 📬 Contact
+## Contact
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kioberry.com-818cf8?style=flat-square&logo=googlechrome&logoColor=white)](https://kioberry.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wanrong-astrid-xie)
