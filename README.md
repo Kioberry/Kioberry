@@ -69,7 +69,6 @@ Exploring RL integration into classical MAPF pipelines. Working toward gap analy
 
 ![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-61dafb?style=flat-square&logo=react&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 --- 
