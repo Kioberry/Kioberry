@@ -3,7 +3,7 @@
 </p>
 
 
-<h2>👋🏻 Hi, I'm Astrid 🫧☁️</h2>
+<h2>👋🏻 Hi, I'm Astrid 🫧</h2>
 <p>🎓 Currently a <strong>Second-year M.S. in Computer Science</strong> student at <strong>USC Viterbi School of Engineering</strong></br>
 👩‍💻 Looking for <strong>2026 Summer Internships</strong> in <strong>Software Engineering</strong> and <strong>Machine Learning</strong></p>
 
