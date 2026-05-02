@@ -15,7 +15,7 @@
   bridging multi-agent coordination with scalable infrastructure.
 </p>
 
---- 
+
 <h2>🫧 About Me</h2> 
 
 <p>
