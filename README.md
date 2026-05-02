@@ -11,12 +11,12 @@
 </p>
 
 <p align="center">
-  I agents and backend systems that improve automated workflows,<br/>
+  Building AI agents and backend systems that improve automated workflows,<br/>
   bridging multi-agent coordination with scalable infrastructure.
 </p>
 
 
-<p>
+<p align="center">
   🎓 <strong>Second-year M.S. in Computer Science</strong> student at <strong>USC Viterbi School of Engineering</strong><br/>
   👩‍💻 Looking for <strong>2026 Summer Internships</strong> in <strong>Software Engineering</strong> and <strong>Machine Learning</strong>
 </p>
