@@ -4,7 +4,7 @@
 
 
 <h2>👋🏻 Hi, I'm Astrid 🫧</h2>
-<p>🎓 Currently a <strong>Second-year M.S. in Computer Science</strong> student at <strong>USC Viterbi School of Engineering</strong></br>
+<p>🎓 Currently a <strong>Second-year M.S. in Computer Science</strong> student at <strong>USC Viterbi School of Engineering</strong><br>
 👩‍💻 Looking for <strong>2026 Summer Internships</strong> in <strong>Software Engineering</strong> and <strong>Machine Learning</strong></p>
 
 I'm passionate about building AI agents and backend systems that improve automated workflows, bridging multi-agent coordination with scalable infrastructure.
@@ -14,7 +14,6 @@ I'm passionate about building AI agents and backend systems that improve automat
   <img src="https://img.shields.io/badge/Open%20to-2026%20Internships-f59e0b?style=flat-square&logoColor=white" />
 </p>
 
-<br>
 
 --- 
 
@@ -26,7 +25,6 @@ I'm passionate about building AI agents and backend systems that improve automat
 | [**PokerBench**]() | QLoRA fine-tuning study. Small models outperform GPT-4o zero-shot on poker strategy. | PyTorch · QLoRA · HuggingFace | 🔬 Research |
 | [**Alien Cat**](https://github.com/Kioberry/CSCI580_AlienCat_Project) | A 3D-rendered ocean shader scene in GLSL/Shadertoy | GLSL · Ray Marching · Shadertoy | 👾 Computer Graphics |
 
-<br>
 
 --- 
 
@@ -42,7 +40,6 @@ Exploring RL integration into classical MAPF pipelines. Working toward gap analy
 ![RL+Planning](https://img.shields.io/badge/RL%20%2B%20Planning-555?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 
-<br>
 
 --- 
 
@@ -75,8 +72,6 @@ Exploring RL integration into classical MAPF pipelines. Working toward gap analy
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
-<br>
-
 --- 
 
 <h2>💼 Experience</h2>
@@ -85,7 +80,6 @@ Exploring RL integration into classical MAPF pipelines. Working toward gap analy
 
 **China Mobile Payment** — Spring Boot authentication microservices. Resolved JWT vs Redis session conflict with hybrid architecture, ~40% latency reduction.
 
-<br>
 
 --- 
 
