@@ -21,11 +21,9 @@ Interested in multi-agent coordination, backend scale, and things that look good
 
 | Project | Description | Stack | Award |
 |---|---|---|---|
-| [**Peeko**](https://github.com/Kioberry/peeko) | AI lecture recovery — one-tap "catch me up" for students. 12-hour build. | Deepgram · Claude API · React · Python | 🏆 Build4SC 1st Place |
-| [**PokerBench**](https://github.com/Kioberry/pokerbench) | QLoRA fine-tuning study. Small models outperform GPT-4o zero-shot on poker strategy. | PyTorch · QLoRA · HuggingFace | 🔬 Research |
-| [**SmartFridge**](https://github.com/Kioberry/smartfridge) | iOS fridge inventory via vision. Full AWS serverless backend. | Swift · GPT-4o Vision · Lambda · S3 · RDS | |
-| [**Whispering Wishes**](https://github.com/Kioberry/whispering-wishes) | Physical interactive installation with touch sensors and projector effects. | Arduino · Unity · C# | 🛠 Physical Build |
-| [**AI Factory Twin**](https://github.com/Kioberry/factory-twin) | Real-time 3D factory digital twin with ethical tradeoff modeling. | React · Three.js · Zustand | ⚡ Shift AI Hackathon |
+| [**Peeko**](https://github.com/masibasi/peeko) | AI lecture recovery — one-tap "catch me up" for students. 12-hour build. | Deepgram · Claude API · React · Python | 🏆 Build4SC 1st Place |
+| [**PokerBench**]() | QLoRA fine-tuning study. Small models outperform GPT-4o zero-shot on poker strategy. | PyTorch · QLoRA · HuggingFace | 🔬 Research |
+| [**Alien Cat**](https://github.com/Kioberry/smartfridge) | A 3D-rendered scene using GLSL | |
 
 ---
 
@@ -33,7 +31,7 @@ Interested in multi-agent coordination, backend scale, and things that look good
 
 **Multi-Agent Pathfinding (MAPF) — USC Research Lab**
 
-Reading and extending RAILGUN (U-Net based centralized MAPF) and ITA-CBS (Token Passing with Anytime CBS). Exploring RL integration into classical MAPF pipelines. Working toward gap analysis and novel approach proposals with PhD advisor.
+ Exploring RL integration into classical MAPF pipelines. Working toward gap analysis and novel approach proposals.
 
 `MAPF` `ITA-CBS` `RAILGUN` `CBS` `RL + Planning` `Python`
 
@@ -69,6 +67,5 @@ Reading and extending RAILGUN (U-Net based centralized MAPF) and ITA-CBS (Token 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kioberry.com-818cf8?style=flat-square)](https://kioberry.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=flat-square&logo=gmail)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=flat-square&logo=gmail)](mailto:wanrongxie7@gmail.com)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0f3460,1a1a2e,818cf8&height=100&section=footer)

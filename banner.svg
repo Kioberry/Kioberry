@@ -1,0 +1,199 @@
+<svg width="860" height="200" viewBox="0 0 860 200" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@800;900&amp;display=swap');
+
+    .wave2 { animation: wv2 3s ease-in-out infinite alternate; }
+    .wave3 { animation: wv3 4s ease-in-out infinite alternate-reverse; }
+    @keyframes wv2 { from{transform:translateX(-8px)} to{transform:translateX(8px)} }
+    @keyframes wv3 { from{transform:translateX(-8px)} to{transform:translateX(8px)} }
+
+    .cloud1 { animation: cl1 22s linear infinite; }
+    .cloud2 { animation: cl2 30s linear infinite; }
+    @keyframes cl1 { from{transform:translateX(-120px)} to{transform:translateX(980px)} }
+    @keyframes cl2 { from{transform:translateX(-100px)} to{transform:translateX(960px)} }
+
+    .light1 { animation: pulse1 4s ease-in-out infinite; }
+    .light2 { animation: pulse2 5s ease-in-out infinite; }
+    @keyframes pulse1 { 0%,100%{opacity:0.6} 50%{opacity:1} }
+    @keyframes pulse2 { 0%,100%{opacity:0.6} 50%{opacity:1} }
+
+    .b1  { animation: b1a  5.5s linear infinite;      } @keyframes b1a  { 0%{transform:translate(0,0);opacity:0} 10%{opacity:.8} 85%{opacity:.6} 100%{transform:translate(-12px,-240px) scale(.85);opacity:0} }
+    .b2  { animation: b2a  7.0s linear infinite -1.2s; } @keyframes b2a  { 0%{transform:translate(0,0);opacity:0} 10%{opacity:.8} 85%{opacity:.6} 100%{transform:translate(8px,-240px)  scale(.85);opacity:0} }
+    .b3  { animation: b3a  4.8s linear infinite -0.5s; } @keyframes b3a  { 0%{transform:translate(0,0);opacity:0} 10%{opacity:.8} 85%{opacity:.6} 100%{transform:translate(15px,-240px) scale(.85);opacity:0} }
+    .b4  { animation: b4a  8.0s linear infinite -2.1s; } @keyframes b4a  { 0%{transform:translate(0,0);opacity:0} 10%{opacity:.8} 85%{opacity:.6} 100%{transform:translate(-8px,-240px) scale(.85);opacity:0} }
+    .b5  { animation: b5a  6.0s linear infinite -0.8s; } @keyframes b5a  { 0%{transform:translate(0,0);opacity:0} 10%{opacity:.8} 85%{opacity:.6} 100%{transform:translate(20px,-240px) scale(.85);opacity:0} }
+    .b6  { animation: b6a  5.0s linear infinite -1.8s; } @keyframes b6a  { 0%{transform:translate(0,0);opacity:0} 10%{opacity:.8} 85%{opacity:.6} 100%{transform:translate(-18px,-240px)scale(.85);opacity:0} }
+    .b7  { animation: b7a  7.5s linear infinite -3.0s; } @keyframes b7a  { 0%{transform:translate(0,0);opacity:0} 10%{opacity:.8} 85%{opacity:.6} 100%{transform:translate(10px,-240px) scale(.85);opacity:0} }
+    .b8  { animation: b8a  5.2s linear infinite -0.3s; } @keyframes b8a  { 0%{transform:translate(0,0);opacity:0} 10%{opacity:.8} 85%{opacity:.6} 100%{transform:translate(-6px,-240px) scale(.85);opacity:0} }
+    .b9  { animation: b9a  6.8s linear infinite -2.5s; } @keyframes b9a  { 0%{transform:translate(0,0);opacity:0} 10%{opacity:.8} 85%{opacity:.6} 100%{transform:translate(14px,-240px) scale(.85);opacity:0} }
+    .b10 { animation: b10a 4.5s linear infinite -1.5s; } @keyframes b10a { 0%{transform:translate(0,0);opacity:0} 10%{opacity:.8} 85%{opacity:.6} 100%{transform:translate(-10px,-240px)scale(.85);opacity:0} }
+
+    .chroma-r { animation: chr 0.09s steps(1) infinite; }
+    .chroma-b { animation: chb 0.09s steps(1) infinite; }
+    @keyframes chr { 0%{transform:translateX(4px);opacity:.15} 33%{transform:translateX(2px);opacity:.10} 66%{transform:translateX(5px);opacity:.13} 100%{transform:translateX(3px);opacity:.09} }
+    @keyframes chb { 0%{transform:translateX(-4px);opacity:.15} 33%{transform:translateX(-5px);opacity:.12} 66%{transform:translateX(-2px);opacity:.17} 100%{transform:translateX(-3px);opacity:.13} }
+
+    .ts-blink { animation: tsblink 2s step-end infinite; }
+    @keyframes tsblink { 0%,100%{opacity:1} 50%{opacity:.4} }
+
+    .recdot { animation: rd 1.2s ease-in-out infinite; }
+    @keyframes rd { 0%,100%{opacity:1} 50%{opacity:.2} }
+  </style>
+
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%"   stop-color="#b8d4f0"/>
+    <stop offset="25%"  stop-color="#a0c4e8"/>
+    <stop offset="55%"  stop-color="#c5d8ef"/>
+    <stop offset="80%"  stop-color="#d8e8f5"/>
+    <stop offset="100%" stop-color="#e8eff7"/>
+  </linearGradient>
+
+  <linearGradient id="sea1g" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%"   stop-color="#8ab4d8"/>
+    <stop offset="40%"  stop-color="#6a96c0"/>
+    <stop offset="100%" stop-color="#4a78a8"/>
+  </linearGradient>
+
+  <radialGradient id="light1g" cx="50%" cy="50%" r="50%">
+    <stop offset="0%"   stop-color="rgba(200,220,255,0.35)"/>
+    <stop offset="100%" stop-color="rgba(200,220,255,0)"/>
+  </radialGradient>
+  <radialGradient id="light2g" cx="50%" cy="50%" r="50%">
+    <stop offset="0%"   stop-color="rgba(180,210,250,0.25)"/>
+    <stop offset="100%" stop-color="rgba(180,210,250,0)"/>
+  </radialGradient>
+
+  <radialGradient id="viggrad" cx="50%" cy="50%" r="55%">
+    <stop offset="50%"  stop-color="rgba(30,50,100,0)"/>
+    <stop offset="100%" stop-color="rgba(30,50,100,0.35)"/>
+  </radialGradient>
+
+  <radialGradient id="bub" cx="30%" cy="30%" r="65%">
+    <stop offset="0%"   stop-color="rgba(255,255,255,0.5)"/>
+    <stop offset="100%" stop-color="rgba(180,220,255,0.15)"/>
+  </radialGradient>
+
+  <clipPath id="clip">
+    <rect width="860" height="200" rx="12"/>
+  </clipPath>
+</defs>
+
+<g clip-path="url(#clip)">
+
+  <!-- sky -->
+  <rect width="860" height="200" fill="url(#sky)"/>
+
+  <!-- light orbs -->
+  <ellipse class="light1" cx="172" cy="42" rx="90" ry="60" fill="url(#light1g)"/>
+  <ellipse class="light2" cx="731" cy="60" rx="70" ry="50" fill="url(#light2g)"/>
+
+  <!-- cloud 1 -->
+  <g class="cloud1" opacity="0.55">
+    <rect x="0"  y="22" width="90" height="28" rx="14" fill="rgba(255,255,255,0.75)"/>
+    <rect x="15" y="10" width="60" height="22" rx="11" fill="rgba(255,255,255,0.75)"/>
+  </g>
+
+  <!-- cloud 2 -->
+  <g class="cloud2" opacity="0.35">
+    <rect x="0"  y="34" width="70" height="22" rx="11" fill="rgba(255,255,255,0.75)"/>
+    <rect x="12" y="24" width="44" height="18" rx="9"  fill="rgba(255,255,255,0.75)"/>
+  </g>
+
+  <!-- sea -->
+  <path d="M-10 118 Q430 98 870 118 L870 200 L-10 200 Z" fill="url(#sea1g)"/>
+  <path class="wave2" d="M-86 130 Q430 110 946 130 L946 200 L-86 200 Z" fill="rgba(100,160,210,0.6)"/>
+  <path class="wave3" d="M-43 142 Q430 126 903 142 L903 200 L-43 200 Z" fill="rgba(80,140,200,0.4)"/>
+
+  <!-- chroma red -->
+  <g class="chroma-r">
+    <text x="430" y="106" text-anchor="middle"
+      font-family="'Nunito', 'Arial Rounded MT Bold', sans-serif"
+      font-size="58" font-weight="900"
+      fill="rgba(255,40,40,0.4)" letter-spacing="-1">Astrid Xie</text>
+  </g>
+  <!-- chroma blue -->
+  <g class="chroma-b">
+    <text x="430" y="106" text-anchor="middle"
+      font-family="'Nunito', 'Arial Rounded MT Bold', sans-serif"
+      font-size="58" font-weight="900"
+      fill="rgba(40,180,255,0.4)" letter-spacing="-1">Astrid Xie</text>
+  </g>
+
+  <!-- main title -->
+  <text x="430" y="106" text-anchor="middle"
+    font-family="'Nunito', 'Arial Rounded MT Bold', sans-serif"
+    font-size="58" font-weight="900"
+    fill="white" letter-spacing="-1"
+    style="filter:drop-shadow(0 0 18px rgba(160,200,255,0.8)) drop-shadow(0 2px 4px rgba(0,60,120,0.4))">Astrid Xie</text>
+
+  <!-- subtitle -->
+  <text x="430" y="128" text-anchor="middle"
+    font-family="'Nunito', 'Arial Rounded MT Bold', sans-serif"
+    font-size="13" font-weight="800"
+    fill="rgba(255,255,255,0.78)" letter-spacing="3"
+    style="filter:drop-shadow(0 1px 4px rgba(0,60,120,0.5))">USC VITERBI · AI · BACKEND · 2026</text>
+
+  <!-- bubbles -->
+  <g class="b1">
+    <circle cx="69"  cy="155" r="9"  fill="url(#bub)" stroke="rgba(255,255,255,0.7)" stroke-width="1.5"/>
+    <ellipse cx="65" cy="150" rx="2.5" ry="1.6" fill="rgba(255,255,255,0.7)" transform="rotate(-30 65 150)"/>
+  </g>
+  <g class="b2">
+    <circle cx="155" cy="148" r="13" fill="url(#bub)" stroke="rgba(255,255,255,0.7)" stroke-width="1.5"/>
+    <ellipse cx="148" cy="141" rx="3.6" ry="2.3" fill="rgba(255,255,255,0.7)" transform="rotate(-30 148 141)"/>
+  </g>
+  <g class="b3">
+    <circle cx="275" cy="158" r="7"  fill="url(#bub)" stroke="rgba(255,255,255,0.7)" stroke-width="1.5"/>
+    <ellipse cx="272" cy="154" rx="2.0" ry="1.3" fill="rgba(255,255,255,0.7)" transform="rotate(-30 272 154)"/>
+  </g>
+  <g class="b4">
+    <circle cx="413" cy="145" r="16" fill="url(#bub)" stroke="rgba(255,255,255,0.7)" stroke-width="1.5"/>
+    <ellipse cx="404" cy="136" rx="4.5" ry="2.9" fill="rgba(255,255,255,0.7)" transform="rotate(-30 404 136)"/>
+  </g>
+  <g class="b5">
+    <circle cx="516" cy="152" r="10" fill="url(#bub)" stroke="rgba(255,255,255,0.7)" stroke-width="1.5"/>
+    <ellipse cx="511" cy="147" rx="2.8" ry="1.8" fill="rgba(255,255,255,0.7)" transform="rotate(-30 511 147)"/>
+  </g>
+  <g class="b6">
+    <circle cx="619" cy="160" r="6"  fill="url(#bub)" stroke="rgba(255,255,255,0.7)" stroke-width="1.5"/>
+    <ellipse cx="616" cy="157" rx="1.7" ry="1.1" fill="rgba(255,255,255,0.7)" transform="rotate(-30 616 157)"/>
+  </g>
+  <g class="b7">
+    <circle cx="705" cy="147" r="14" fill="url(#bub)" stroke="rgba(255,255,255,0.7)" stroke-width="1.5"/>
+    <ellipse cx="697" cy="139" rx="3.9" ry="2.5" fill="rgba(255,255,255,0.7)" transform="rotate(-30 697 139)"/>
+  </g>
+  <g class="b8">
+    <circle cx="774" cy="155" r="8"  fill="url(#bub)" stroke="rgba(255,255,255,0.7)" stroke-width="1.5"/>
+    <ellipse cx="770" cy="151" rx="2.2" ry="1.4" fill="rgba(255,255,255,0.7)" transform="rotate(-30 770 151)"/>
+  </g>
+  <g class="b9">
+    <circle cx="327" cy="150" r="11" fill="url(#bub)" stroke="rgba(255,255,255,0.7)" stroke-width="1.5"/>
+    <ellipse cx="321" cy="144" rx="3.1" ry="2.0" fill="rgba(255,255,255,0.7)" transform="rotate(-30 321 144)"/>
+  </g>
+  <g class="b10">
+    <circle cx="473" cy="157" r="5"  fill="url(#bub)" stroke="rgba(255,255,255,0.7)" stroke-width="1.5"/>
+    <ellipse cx="470" cy="154" rx="1.4" ry="0.9" fill="rgba(255,255,255,0.7)" transform="rotate(-30 470 154)"/>
+  </g>
+
+  <!-- vignette -->
+  <rect width="860" height="200" fill="url(#viggrad)" rx="12"/>
+
+  <!-- scanlines -->
+  <rect width="860" height="200" rx="12" fill="none"
+    stroke="none"
+    style="background:repeating-linear-gradient(0deg,transparent,transparent 3px,rgba(0,0,0,0.05) 3px,rgba(0,0,0,0.05) 4px)"/>
+
+  <!-- timestamp -->
+  <text class="ts-blink" x="16" y="186"
+    font-family="'Courier New', monospace" font-size="11"
+    fill="rgba(255,255,255,0.75)" letter-spacing="1">REC 00:00:00</text>
+
+  <!-- REC indicator -->
+  <circle class="recdot" cx="831" cy="182" r="3.5" fill="#ff4444"/>
+  <text x="839" y="186"
+    font-family="'Courier New', monospace" font-size="11"
+    fill="rgba(255,255,255,0.8)" letter-spacing="1">REC</text>
+
+</g>
+</svg>
