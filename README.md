@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  Building AI agents, distributed systems, and the infrastructure that makes them run.<br/>
-  Interested in multi-agent coordination, backend scale, and things that look good doing it.
+  A second-year Computer Science Master studying at USC.
+  Building AI agents, backend system that improve the automatic workflow.<br/>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 |---|---|---|---|
 | [**Peeko**](https://github.com/masibasi/peeko) | AI lecture recovery — one-tap "catch me up" for students. 12-hour build. | Deepgram · Claude API · React · Python | 🏆 Build4SC 1st Place |
 | [**PokerBench**]() | QLoRA fine-tuning study. Small models outperform GPT-4o zero-shot on poker strategy. | PyTorch · QLoRA · HuggingFace | 🔬 Research |
-| [**Alien Cat**](https://github.com/Kioberry/smartfridge) | A 3D-rendered ocean shader scene in GLSL/Shadertoy | GLSL · Ray Marching · Shadertoy | |
+| [**Alien Cat**](https://github.com/Kioberry/CSCI580_AlienCat_Project) | A 3D-rendered ocean shader scene in GLSL/Shadertoy | GLSL · Ray Marching · Shadertoy | 👾 Computer Graphics |
 
 ---
 
