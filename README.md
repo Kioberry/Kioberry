@@ -3,12 +3,11 @@
 </p>
 
 
-## 👋🏻 Hi, I'm Astrid 🫧
-#### 🎓 Currently a **Second-year M.S. in Computer Science** student at **USC Viterbi School of Engineering** </br>
+#### 👋🏻 Hi, I'm Astrid 🫧
+#### 🎓 Currently a **Second-year M.S. in Computer Science** student at **USC Viterbi School of Engineering**
 #### 👩‍💻 Looking for **2026 Summer Internships** in **Software Engineering** and **Machine Learning**.
 
 I'm passionate about building AI agents and backend systems that improve automated workflows, bridging multi-agent coordination with scalable infrastructure.
-
 
 <p>
   <img src="https://img.shields.io/badge/USC-MS%20CS-cc0000?style=flat-square&logo=academia&logoColor=white" />
@@ -17,9 +16,9 @@ I'm passionate about building AI agents and backend systems that improve automat
   <img src="https://img.shields.io/badge/Open%20to-2026%20Internships-f59e0b?style=flat-square&logoColor=white" />
 </p>
 
+<br>
 
-
-## 📎 Featured Projects
+#### 📎 Featured Projects
 
 | Project | Description | Stack | Award |
 |---|---|---|---|
@@ -27,9 +26,9 @@ I'm passionate about building AI agents and backend systems that improve automat
 | [**PokerBench**]() | QLoRA fine-tuning study. Small models outperform GPT-4o zero-shot on poker strategy. | PyTorch · QLoRA · HuggingFace | 🔬 Research |
 | [**Alien Cat**](https://github.com/Kioberry/CSCI580_AlienCat_Project) | A 3D-rendered ocean shader scene in GLSL/Shadertoy | GLSL · Ray Marching · Shadertoy | 👾 Computer Graphics |
 
+<br>
 
-
-## 🔬 Current Research
+#### 🔬 Current Research
 
 **Multi-Agent Pathfinding (MAPF) — USC Research Lab**
 
@@ -41,9 +40,9 @@ Exploring RL integration into classical MAPF pipelines. Working toward gap analy
 ![RL+Planning](https://img.shields.io/badge/RL%20%2B%20Planning-555?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 
+<br>
 
-
-## 🛠 Skills
+#### 🛠 Skills
 
 **Languages & AI/ML**
 
@@ -72,16 +71,17 @@ Exploring RL integration into classical MAPF pipelines. Working toward gap analy
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
+<br>
 
-
-## 💼 Experience
+#### 💼 Experience
 
 **Yimikang Tech** — Distributed edge computing systems with RL-based optimization. Managed 200+ device fleet; resolved major FSU outage under pressure.
 
 **China Mobile Payment** — Spring Boot authentication microservices. Resolved JWT vs Redis session conflict with hybrid architecture, ~40% latency reduction.
 
+<br>
 
-## Contact
+#### 📬 Contact
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kioberry.com-818cf8?style=flat-square&logo=googlechrome&logoColor=white)](https://kioberry.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wanrong-astrid-xie)
