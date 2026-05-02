@@ -4,21 +4,21 @@
 
 
 <h3>👋🏻 Hi, I'm Astrid 🫧</h3>
-<h3>🎓 Currently a <strong>Second-year M.S. in Computer Science</strong> student at <strong>USC Viterbi School of Engineering</strong></h3>
-<h3>👩‍💻 Looking for <strong>2026 Summer Internships</strong> in <strong>Software Engineering</strong> and <strong>Machine Learning</strong></h3>
+<p>🎓 Currently a <strong>Second-year M.S. in Computer Science</strong> student at <strong>USC Viterbi School of Engineering</strong></br>
+👩‍💻 Looking for <strong>2026 Summer Internships</strong> in <strong>Software Engineering</strong> and <strong>Machine Learning</strong></p>
 
 I'm passionate about building AI agents and backend systems that improve automated workflows, bridging multi-agent coordination with scalable infrastructure.
 
 <p>
-  <img src="https://img.shields.io/badge/USC-MS%20CS-cc0000?style=flat-square&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/GPA-3.8%20%2F%204.0-4ade80?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Grad-Dec%202026-94a3b8?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20to-2026%20Internships-f59e0b?style=flat-square&logoColor=white" />
 </p>
 
 <br>
 
-<h3>📎 Featured Projects</h3>
+--- 
+
+<h3> 🗃️ Featured Projects</h3>
 
 | Project | Description | Stack | Award |
 |---|---|---|---|
