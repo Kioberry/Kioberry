@@ -2,22 +2,28 @@
   <img src="./banner.svg" width="100%" alt="Astrid Xie banner"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Agent%20Dev-818cf8?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend%20Infra-2dd4bf?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/MAPF%20Research-f59e0b?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPA%203.8-4ade80?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grad%20Dec%202026-94a3b8?style=flat-square&logoColor=white" />
+</p>
 
-<h2>👋🏻 Hi, I'm Astrid 🫧</h2>
-<p>🎓 Currently a <strong>Second-year M.S. in Computer Science</strong> student at <strong>USC Viterbi School of Engineering</strong><br>
-👩‍💻 Looking for <strong>2026 Summer Internships</strong> in <strong>Software Engineering</strong> and <strong>Machine Learning</strong></p>
-
-I'm passionate about building AI agents and backend systems that improve automated workflows, bridging multi-agent coordination with scalable infrastructure.
-
-<p>
-  <img src="https://img.shields.io/badge/Grad-Dec%202026-94a3b8?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20to-2026%20Internships-f59e0b?style=flat-square&logoColor=white" />
+<p align="center">
+  I agents and backend systems that improve automated workflows,<br/>
+  bridging multi-agent coordination with scalable infrastructure.
 </p>
 
 
---- 
+<p>
+  🎓 <strong>Second-year M.S. in Computer Science</strong> student at <strong>USC Viterbi School of Engineering</strong><br/>
+  👩‍💻 Looking for <strong>2026 Summer Internships</strong> in <strong>Software Engineering</strong> and <strong>Machine Learning</strong>
+</p>
 
-<h2> 💻 Featured Projects</h2>
+---
+
+<h2>💻 Featured Projects</h2>
 
 | Project | Description | Stack | Award |
 |---|---|---|---|
@@ -25,8 +31,7 @@ I'm passionate about building AI agents and backend systems that improve automat
 | [**PokerBench**]() | QLoRA fine-tuning study. Small models outperform GPT-4o zero-shot on poker strategy. | PyTorch · QLoRA · HuggingFace | 🔬 Research |
 | [**Alien Cat**](https://github.com/Kioberry/CSCI580_AlienCat_Project) | A 3D-rendered ocean shader scene in GLSL/Shadertoy | GLSL · Ray Marching · Shadertoy | 👾 Computer Graphics |
 
-
---- 
+---
 
 <h2>🔬 Current Research</h2>
 
@@ -40,8 +45,7 @@ Exploring RL integration into classical MAPF pipelines. Working toward gap analy
 ![RL+Planning](https://img.shields.io/badge/RL%20%2B%20Planning-555?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 
-
---- 
+---
 
 <h2>🛠 Skills</h2>
 
@@ -71,7 +75,7 @@ Exploring RL integration into classical MAPF pipelines. Working toward gap analy
 ![React Native](https://img.shields.io/badge/React%20Native-61dafb?style=flat-square&logo=react&logoColor=black)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
---- 
+---
 
 <h2>💼 Experience</h2>
 
@@ -79,8 +83,7 @@ Exploring RL integration into classical MAPF pipelines. Working toward gap analy
 
 **China Mobile Payment** — Spring Boot authentication microservices. Resolved JWT vs Redis session conflict with hybrid architecture, ~40% latency reduction.
 
-
---- 
+---
 
 <h2>📮 Contact</h2>
 
