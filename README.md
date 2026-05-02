@@ -17,7 +17,7 @@ I'm passionate about building AI agents and backend systems that improve automat
 
 --- 
 
-<h2> 🗃️ Featured Projects</h2>
+<h2> 💻 Featured Projects</h2>
 
 | Project | Description | Stack | Award |
 |---|---|---|---|
