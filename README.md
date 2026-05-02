@@ -3,10 +3,10 @@
 </p>
 
 
-### 🫧👋🏻 Hi, I'm Astrid
+## 👋🏻 Hi, I'm Astrid 🫧
 
-🎓 I'm currently a **Second-year M.S. in Computer Science** student at **USC Viterbi School of Engineering** 
-👩‍💻 Looking to **2026 Summer Internships** in **Software Engineering** and **Machine Learning**.
+🎓 I'm currently a **Second-year M.S. in Computer Science** student at **USC Viterbi School of Engineering** </br>
+👩‍💻 Looking for **2026 Summer Internships** in **Software Engineering** and **Machine Learning**.
 
 I'm passionate about building AI agents and backend systems that improve automated workflows, bridging multi-agent coordination with scalable infrastructure.
 
