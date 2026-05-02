@@ -3,9 +3,9 @@
 </p>
 
 
-#### 👋🏻 Hi, I'm Astrid 🫧
-#### 🎓 Currently a **Second-year M.S. in Computer Science** student at **USC Viterbi School of Engineering**
-#### 👩‍💻 Looking for **2026 Summer Internships** in **Software Engineering** and **Machine Learning**.
+<h3>👋🏻 Hi, I'm Astrid 🫧</h3>
+<h3>🎓 Currently a <strong>Second-year M.S. in Computer Science</strong> student at <strong>USC Viterbi School of Engineering</strong></h3>
+<h3>👩‍💻 Looking for <strong>2026 Summer Internships</strong> in <strong>Software Engineering</strong> and <strong>Machine Learning</strong></h3>
 
 I'm passionate about building AI agents and backend systems that improve automated workflows, bridging multi-agent coordination with scalable infrastructure.
 
@@ -18,7 +18,7 @@ I'm passionate about building AI agents and backend systems that improve automat
 
 <br>
 
-#### 📎 Featured Projects
+<h3>📎 Featured Projects</h3>
 
 | Project | Description | Stack | Award |
 |---|---|---|---|
@@ -28,7 +28,7 @@ I'm passionate about building AI agents and backend systems that improve automat
 
 <br>
 
-#### 🔬 Current Research
+<h3>🔬 Current Research</h3>
 
 **Multi-Agent Pathfinding (MAPF) — USC Research Lab**
 
@@ -42,7 +42,7 @@ Exploring RL integration into classical MAPF pipelines. Working toward gap analy
 
 <br>
 
-#### 🛠 Skills
+<h3>🛠 Skills</h3>
 
 **Languages & AI/ML**
 
@@ -73,7 +73,7 @@ Exploring RL integration into classical MAPF pipelines. Working toward gap analy
 
 <br>
 
-#### 💼 Experience
+<h3>💼 Experience</h3>
 
 **Yimikang Tech** — Distributed edge computing systems with RL-based optimization. Managed 200+ device fleet; resolved major FSU outage under pressure.
 
@@ -81,7 +81,7 @@ Exploring RL integration into classical MAPF pipelines. Working toward gap analy
 
 <br>
 
-#### 📬 Contact
+<h3>📬 Contact</h3>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kioberry.com-818cf8?style=flat-square&logo=googlechrome&logoColor=white)](https://kioberry.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wanrong-astrid-xie)
