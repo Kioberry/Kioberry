@@ -3,7 +3,7 @@
 </p>
 
 
-<h3>👋🏻 Hi, I'm Astrid 🫧</h3>
+<h2>👋🏻 Hi, I'm Astrid 🫧☁️</h2>
 <p>🎓 Currently a <strong>Second-year M.S. in Computer Science</strong> student at <strong>USC Viterbi School of Engineering</strong></br>
 👩‍💻 Looking for <strong>2026 Summer Internships</strong> in <strong>Software Engineering</strong> and <strong>Machine Learning</strong></p>
 
@@ -18,7 +18,7 @@ I'm passionate about building AI agents and backend systems that improve automat
 
 --- 
 
-<h3> 🗃️ Featured Projects</h3>
+<h2> 🗃️ Featured Projects</h2>
 
 | Project | Description | Stack | Award |
 |---|---|---|---|
@@ -30,7 +30,7 @@ I'm passionate about building AI agents and backend systems that improve automat
 
 --- 
 
-<h3>🔬 Current Research</h3>
+<h2>🔬 Current Research</h2>
 
 **Multi-Agent Pathfinding (MAPF) — USC Research Lab**
 
@@ -46,7 +46,7 @@ Exploring RL integration into classical MAPF pipelines. Working toward gap analy
 
 --- 
 
-<h3>🛠 Skills</h3>
+<h2>🛠 Skills</h2>
 
 **Languages & AI/ML**
 
@@ -79,8 +79,7 @@ Exploring RL integration into classical MAPF pipelines. Working toward gap analy
 
 --- 
 
-
-<h3>💼 Experience</h3>
+<h2>💼 Experience</h2>
 
 **Yimikang Tech** — Distributed edge computing systems with RL-based optimization. Managed 200+ device fleet; resolved major FSU outage under pressure.
 
@@ -90,7 +89,7 @@ Exploring RL integration into classical MAPF pipelines. Working toward gap analy
 
 --- 
 
-<h3>📮 Contact</h3>
+<h2>📮 Contact</h2>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kioberry.com-818cf8?style=flat-square&logo=googlechrome&logoColor=white)](https://kioberry.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wanrong-astrid-xie)
