@@ -28,6 +28,8 @@ I'm passionate about building AI agents and backend systems that improve automat
 
 <br>
 
+--- 
+
 <h3>🔬 Current Research</h3>
 
 **Multi-Agent Pathfinding (MAPF) — USC Research Lab**
@@ -41,6 +43,8 @@ Exploring RL integration into classical MAPF pipelines. Working toward gap analy
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 
 <br>
+
+--- 
 
 <h3>🛠 Skills</h3>
 
@@ -73,6 +77,9 @@ Exploring RL integration into classical MAPF pipelines. Working toward gap analy
 
 <br>
 
+--- 
+
+
 <h3>💼 Experience</h3>
 
 **Yimikang Tech** — Distributed edge computing systems with RL-based optimization. Managed 200+ device fleet; resolved major FSU outage under pressure.
@@ -81,7 +88,9 @@ Exploring RL integration into classical MAPF pipelines. Working toward gap analy
 
 <br>
 
-<h3>📬 Contact</h3>
+--- 
+
+<h3>📮 Contact</h3>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kioberry.com-818cf8?style=flat-square&logo=googlechrome&logoColor=white)](https://kioberry.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wanrong-astrid-xie)
