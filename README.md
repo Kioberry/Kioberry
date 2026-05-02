@@ -3,8 +3,10 @@
 </p>
 
 <p align="center">
-  A second-year Computer Science Master studying at USC.
+  🫧 Hi, I'm Astrid.😊
+  A second-year Computer Science Master studying at USC.<br/>
   Building AI agents, backend system that improve the automatic workflow.<br/>
+  Currently pursue 2026 summer internship in Software Engineering and Machine Learning.
 </p>
 
 <p align="center">
@@ -82,7 +84,7 @@ Exploring RL integration into classical MAPF pipelines. Working toward gap analy
 ## 📬 Contact
 
 <p>
-  📍 Los Angeles, CA &nbsp;|&nbsp; 🎓 USC Viterbi · MS CS · Dec 2026 &nbsp;|&nbsp; 💼 Open to 2026 Summer Internships
+  📍 Los Angeles, CA &nbsp;|&nbsp; 🎓 USC Viterbi · MS CS &nbsp;|&nbsp; 💼 Open to 2026 Summer Internships
 </p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kioberry.com-818cf8?style=flat-square&logo=googlechrome&logoColor=white)](https://kioberry.com)
