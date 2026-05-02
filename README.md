@@ -4,15 +4,14 @@
 
 
 ## 👋🏻 Hi, I'm Astrid 🫧
-
-🎓 I'm currently a **Second-year M.S. in Computer Science** student at **USC Viterbi School of Engineering** </br>
-👩‍💻 Looking for **2026 Summer Internships** in **Software Engineering** and **Machine Learning**.
+#### 🎓 Currently a **Second-year M.S. in Computer Science** student at **USC Viterbi School of Engineering** </br>
+#### 👩‍💻 Looking for **2026 Summer Internships** in **Software Engineering** and **Machine Learning**.
 
 I'm passionate about building AI agents and backend systems that improve automated workflows, bridging multi-agent coordination with scalable infrastructure.
 
 
 <p>
-  <img src="https://img.shields.io/badge/USC%20Viterbi-MS%20CS-cc0000?style=flat-square&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/USC-MS%20CS-cc0000?style=flat-square&logo=academia&logoColor=white" />
   <img src="https://img.shields.io/badge/GPA-3.8%20%2F%204.0-4ade80?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Grad-Dec%202026-94a3b8?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20to-2026%20Internships-f59e0b?style=flat-square&logoColor=white" />
@@ -73,15 +72,14 @@ Exploring RL integration into classical MAPF pipelines. Working toward gap analy
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
----
+
 
 ## 💼 Experience
 
 **Yimikang Tech** — Distributed edge computing systems with RL-based optimization. Managed 200+ device fleet; resolved major FSU outage under pressure.
 
-**China Mobile Payment (CMCC)** — Spring Boot authentication microservices. Resolved JWT vs Redis session conflict with hybrid architecture, ~40% latency reduction.
+**China Mobile Payment** — Spring Boot authentication microservices. Resolved JWT vs Redis session conflict with hybrid architecture, ~40% latency reduction.
 
----
 
 ## Contact
 
