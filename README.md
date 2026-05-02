@@ -11,7 +11,7 @@
 I'm passionate about building AI agents and backend systems that improve automated workflows, bridging multi-agent coordination with scalable infrastructure.
 
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/USC%20Viterbi-MS%20CS-cc0000?style=flat-square&logo=academia&logoColor=white" />
   <img src="https://img.shields.io/badge/GPA-3.8%20%2F%204.0-4ade80?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Grad-Dec%202026-94a3b8?style=flat-square&logoColor=white" />
