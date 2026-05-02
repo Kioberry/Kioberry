@@ -15,12 +15,10 @@
   bridging multi-agent coordination with scalable infrastructure.
 </p>
 
---- 
-<br>
-<h2>🫧 About Me</h2> 
+
 
 <p>
-  🎓 <strong>Second-year M.S. in Computer Science</strong> student at <strong>USC Viterbi School of Engineering</strong><br/>
+  🎓 <strong>Computer Science M.S.</strong> student at <strong>USC Viterbi School of Engineering</strong><br/>
   👩‍💻 Looking for <strong>2026 Summer Internships</strong> in <strong>Software Engineering</strong> and <strong>Machine Learning</strong>
 </p>
 <br>
