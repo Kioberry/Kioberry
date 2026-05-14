@@ -28,7 +28,7 @@
 | Project | Description | Stack | Award |
 |---|---|---|---|
 | [**Peeko**](https://github.com/masibasi/peeko) | AI lecture recovery — one-tap "catch me up" for students. 12-hour build. | Deepgram · Claude API · React · Python | 🏆 Build4SC 1st Place |
-| [**LabMind**](https://github.com/Kioberry/LabMind) | AI agent for automated lab workflows, from experiment data to decisions. | LangChain · FastAPI · Next.JS · Python | 🦾 AI Agent |
+| [**LabMind**](https://github.com/Kioberry/LabMind) | AI agent for automated lab workflows. From experiment data to next-step decisions. | LangChain · FastAPI · Next.JS · Python | 🦾 AI Agent |
 | [**PokerBench**]() | QLoRA fine-tuning study. Small models outperform GPT-4o zero-shot on poker strategy. | PyTorch · QLoRA · HuggingFace | 🔬 Research |
 | [**Alien Cat**](https://github.com/Kioberry/CSCI580_AlienCat_Project) | A 3D-rendered ocean shader scene in GLSL/Shadertoy | GLSL · Ray Marching · Shadertoy | 👾 Computer Graphics |
 
