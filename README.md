@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/AI%20Agent%20Dev-818cf8?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Backend%20Infra-2dd4bf?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/MAPF%20Research-f59e0b?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/GPA%203.8-4ade80?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPA%203.85-4ade80?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Grad%20Dec%202026-94a3b8?style=flat-square&logoColor=white" />
 </p>
 
@@ -18,7 +18,7 @@
 
 <p align="center">
   🎓 <strong>Computer Science M.S.</strong> student at <strong>USC Viterbi School of Engineering</strong><br/>
-  👩‍💻 Looking for <strong>2026 Summer Internships</strong> in <strong>Software Engineering</strong> and <strong>Machine Learning</strong>
+  👩‍💻 Looking for <strong>2027 Full time Job</strong> in <strong>Software Engineering</strong> and <strong>Machine Learning</strong>
 </p>
 
 ---
