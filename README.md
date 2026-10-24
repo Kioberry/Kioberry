@@ -27,6 +27,7 @@
 
 | Project | Description | Stack | Award |
 |---|---|---|---|
+| [**Daypilot**](https://github.com/hoo01/Daypilot) | Proactive daily scheduling agent. Turns calendar, location, and personal context into a realistic plan. | Google ADK · Gemini · FastAPI · MongoDB Atlas | 🗓️ AI Agent |
 | [**Peeko**](https://github.com/masibasi/peeko) | AI lecture recovery — one-tap "catch me up" for students. 12-hour build. | Deepgram · Claude API · React · Python | 🏆 Build4SC 1st Place |
 | [**LabMind**](https://github.com/Kioberry/LabMind) | AI agent for automated lab workflows. From experiment data to next-step decisions. | LangChain · FastAPI · Next.JS · Python | 🦾 AI Agent |
 | [**PokerBench**](https://github.com/Kioberry/PokerBench) | QLoRA fine-tuning study. Small models outperform GPT-4o zero-shot on poker strategy. | PyTorch · QLoRA · HuggingFace | 🔬 Research |
