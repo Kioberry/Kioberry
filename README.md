@@ -18,7 +18,8 @@
 
 <p align="center">
   🎓 <strong>Computer Science M.S.</strong> student at <strong>USC Viterbi School of Engineering</strong><br/>
-  👩‍💻 Looking for <strong>2027 Full time Job</strong> in <strong>Software Engineering</strong> and <strong>Machine Learning</strong>
+  👩‍💻 Looking for <strong>2027 Full time Job</strong> in <strong>Software Engineering</strong> and <strong>Machine Learning</strong><br/>
+  🫧 Portfolio: <a href="https://kioberry.github.io/"><strong>kioberry.github.io</strong></a>
 </p>
 
 ---
@@ -89,6 +90,6 @@ Exploring RL integration into classical MAPF pipelines. Working toward gap analy
 
 <h2>📮 Contact</h2>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kioberry.com-818cf8?style=flat-square&logo=googlechrome&logoColor=white)](https://kioberry.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kioberry.github.io-818cf8?style=flat-square&logo=googlechrome&logoColor=white)](https://kioberry.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wanrong-astrid-xie)
 [![Email](https://img.shields.io/badge/Email-wanrongxie7%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wanrongxie7@gmail.com)
